@@ -11,5 +11,6 @@ namespace SocialGoal.Data.Repository
         }
     public interface IFocusRepository : IRepository<Focus>
     {
+        //234
     }
 }
